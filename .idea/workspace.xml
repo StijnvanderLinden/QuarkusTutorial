@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a026948-5dcd-479d-bf98-f2a0806c3e95" name="Default Changelist" comment="" />
+    <list default="true" id="5a026948-5dcd-479d-bf98-f2a0806c3e95" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_osgi_2_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_quarkus_gizmo_gizmo_1_0_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_quarkus_quarkus_bootstrap_core_1_2_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_quarkus_quarkus_builder_1_2_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_quarkus_quarkus_core_deployment_1_2_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_quarkus_quarkus_jsonp_1_2_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_quarkus_quarkus_jsonp_deployment_1_2_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_quarkus_quarkus_junit5_1_2_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_quarkus_quarkus_test_common_1_2_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_5_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_analysis_7_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_tree_7_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_util_7_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testcontainers_testcontainers_1_12_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/super-heroes/rest-hero/src/test/java/io/quarkus/workshop/superheroes/hero/DatabaseResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_1_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/super-heroes/kubernetes/config-hero.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/super-heroes/kubernetes/config-hero.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/super-heroes/kubernetes/deployment-hero.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/super-heroes/kubernetes/deployment-hero.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/super-heroes/rest-hero/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/super-heroes/rest-hero/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/super-heroes/rest-hero/src/main/java/io/quarkus/workshop/superheroes/hero/HeroResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/super-heroes/rest-hero/src/main/java/io/quarkus/workshop/superheroes/hero/HeroResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/super-heroes/rest-hero/src/main/java/io/quarkus/workshop/superheroes/hero/HeroService.java" beforeDir="false" afterPath="$PROJECT_DIR$/super-heroes/rest-hero/src/main/java/io/quarkus/workshop/superheroes/hero/HeroService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/super-heroes/rest-hero/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/super-heroes/rest-hero/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/super-heroes/rest-hero/src/test/java/io/quarkus/workshop/superheroes/hero/HeroResourceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/super-heroes/rest-hero/src/test/java/io/quarkus/workshop/superheroes/hero/HeroResourceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/super-parent-root.iml" beforeDir="false" afterPath="$PROJECT_DIR$/super-parent-root.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +51,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aCzTp3CfSWPyXVO1UOtQuVbRaP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,10 +63,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="io.quarkus.workshop.superheroes.hero" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -77,7 +127,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586254373825</updated>
-      <workItem from="1586254384436" duration="1743000" />
+      <workItem from="1586254384436" duration="6199000" />
     </task>
     <servers />
   </component>
@@ -85,9 +135,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="656" y="252" width="607" height="536" key="find.popup" timestamp="1586257383641">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1586262168751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="252" width="607" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586257383641" />
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1586262168751" />
+    <state x="616" y="380" width="688" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586262561580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="380" width="688" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1586262561580" />
+    <state x="656" y="252" width="607" height="536" key="find.popup" timestamp="1586264110034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="252" width="607" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586264110034" />
   </component>
 </project>

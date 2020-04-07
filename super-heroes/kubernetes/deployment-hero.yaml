@@ -13,8 +13,8 @@ items:
       spec:
           ports:
               - name: "http"
-                port: 8085
-                targetPort: 8085
+                port: 8083
+                targetPort: 8083
           selector:
               app: "quarkus-workshop-hero"
               version: "01"
@@ -47,7 +47,7 @@ items:
                         imagePullPolicy: "IfNotPresent"
                         name: "quarkus-workshop-hero"
                         ports:
-                            - containerPort: 8085
+                            - containerPort: 8083
                               name: "http"
                               protocol: "TCP"
                         env:

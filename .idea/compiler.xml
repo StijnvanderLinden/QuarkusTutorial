@@ -41,7 +41,7 @@
       <module name="extension-fault-injector-parent" target="1.8" />
       <module name="load-super-heroes" target="1.8" />
       <module name="rest-villain" target="1.8" />
-      <module name="super-parent-root" target="1.5" />
+      <module name="super-parent-root" target="6" />
       <module name="ui-super-heroes" target="1.8" />
     </bytecodeTargetLevel>
   </component>
